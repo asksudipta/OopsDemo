@@ -21,7 +21,7 @@ public class Main {
         r1.setWidth(value2);
         System.out.println(r1.getHeight());
         System.out.println(r1.getWidth());
-
+        System.out.println(value*value2);
 
     }
 }
